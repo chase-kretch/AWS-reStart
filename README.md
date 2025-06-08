@@ -9,3 +9,4 @@ a repository for my 12 weeks of the reStart AWS programme :)
   - iconic snake game made using the pyxel engine package
 - stockandforex.py
   - stock and foreign exchange tracker using AlphaVantage API requests
+  - was uploaded to my EC2 instance and ran in the cloud
