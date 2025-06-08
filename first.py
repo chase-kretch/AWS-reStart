@@ -1,0 +1,17 @@
+import time
+while True:
+    print("/", end='\r', flush=True)
+    time.sleep(0.1)
+    print("—", end='\r', flush=True)
+    time.sleep(0.1)
+    print("\\", end='\r', flush=True)
+    time.sleep(0.1)
+    print("|", end='\r', flush=True)
+    time.sleep(0.1)
+    print("/", end='\r', flush=True)
+    time.sleep(0.1)
+    print("—", end='\r', flush=True)
+    time.sleep(0.1)
+    print("\\", end='\r', flush=True)
+    time.sleep(0.1)
+    print("|", end='\r', flush=True)
