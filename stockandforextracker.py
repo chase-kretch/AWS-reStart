@@ -11,7 +11,7 @@ import json
 #    gainers = json.load(f)
 # I used this to test without overusing my api key
 
-api_key = "647SNRHGUW4AF2PD" ## Yes I know you should not have your API key on github haha
+api_key = "" ## Yes I know you should not have your API key on github haha
 # Rate limit is only 25 requests per day
 
 class myAlphaVAPI:
